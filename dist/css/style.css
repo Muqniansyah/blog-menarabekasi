@@ -1,0 +1,14 @@
+/* 🎨 Palet warna kustom merah-biru */
+.bg-red-light {
+    background-color: #fbeaea; /* merah muda lembut */
+}
+
+.bg-blue {
+    background-color: #1d3557; /* biru tua */
+    color: #fff;
+}
+
+.bg-red {
+    background-color: #e63946; /* merah utama */
+    color: #fff;
+}
