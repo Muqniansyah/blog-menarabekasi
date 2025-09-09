@@ -49,7 +49,7 @@
             <!-- Gambar Artikel -->
             <img src="{{ asset('images/artikel.jpg') }}" 
                 class="img-fluid rounded shadow-sm mb-4"
-                style="max-width:700px;" 
+                style="max-width: 100%; height: auto;" 
                 alt="Pentingnya Penanganan Kayu Palet">
         </div>
 
