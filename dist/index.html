@@ -52,6 +52,76 @@
             title="Sitemap"
             href="/sitemap.xml"
         />
+
+        <!-- Structured Data JSON-LD -->
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebSite",
+                        "@id": "https://menarabekasi.netlify.app/#website",
+                        "url": "https://menarabekasi.netlify.app/",
+                        "name": "Menara Bekasi",
+                        "description": "Blog seputar pallet kayu ISPM 15 dan solusi ekspor sukses.",
+                        "publisher": {
+                            "@id": "https://menarabekasi.netlify.app/#organization"
+                        },
+                        "potentialAction": {
+                            "@type": "SearchAction",
+                            "target": "https://menarabekasi.netlify.app/?s={search_term_string}",
+                            "query-input": "required name=search_term_string"
+                        }
+                    },
+                    {
+                        "@type": "Organization",
+                        "@id": "https://menarabekasi.netlify.app/#organization",
+                        "name": "PT Kemas Kayu Indonesia",
+                        "url": "https://menarabekasi.netlify.app/",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://menarabekasi.netlify.app/images/logo.PNG"
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "telephone": "+62-858-1729-8071",
+                            "contactType": "customer service",
+                            "areaServed": "ID"
+                        },
+                        "sameAs": ["https://wa.me/6285817298071"]
+                    },
+                    {
+                        "@type": "Article",
+                        "@id": "https://menarabekasi.netlify.app/#article",
+                        "headline": "Menara Bekasi | Penanganan Kayu Pallet ISPM 15 untuk Ekspor Sukses",
+                        "description": "Pelajari mengapa penanganan kayu pallet sesuai standar ISPM 15 menjadi kunci sukses ekspor barang.",
+                        "author": {
+                            "@id": "https://menarabekasi.netlify.app/#organization"
+                        },
+                        "publisher": {
+                            "@id": "https://menarabekasi.netlify.app/#organization"
+                        },
+                        "mainEntityOfPage": {
+                            "@type": "WebPage",
+                            "@id": "https://menarabekasi.netlify.app/"
+                        },
+                        "image": [
+                            "https://menarabekasi.netlify.app/images/artikel.JPG",
+                            "https://menarabekasi.netlify.app/images/artikel2.JPG"
+                        ],
+                        "keywords": [
+                            "pallet kayu ISPM 15",
+                            "pallet ekspor",
+                            "jual pallet kayu",
+                            "pallet bersertifikasi",
+                            "PT Kemas Kayu Indonesia"
+                        ],
+                        "datePublished": "2025-01-01",
+                        "dateModified": "2025-01-01"
+                    }
+                ]
+            }
+        </script>
     </head>
     <body>
         <!-- Header / Hero Section -->
