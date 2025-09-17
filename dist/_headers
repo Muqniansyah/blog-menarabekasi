@@ -1,13 +1,9 @@
-/*  
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: default-src 'self';
-  Permissions-Policy: geolocation=(), camera=()
-
-/sitemap.xml
-  Content-Type: application/xml; charset=utf-8
-  Cache-Control: public, max-age=0, must-revalidate
-
-/robots.txt
-  Content-Type: text/plain; charset=utf-8
-  Cache-Control: public, max-age=0, must-revalidate
+/* X-Content-Type-Options: nosniff Referrer-Policy:
+strict-origin-when-cross-origin Content-Security-Policy: default-src 'self';
+script-src 'self' https://cdn.jsdelivr.net https://www.googletagmanager.com
+https://www.google-analytics.com; style-src 'self' https://cdn.jsdelivr.net
+https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src
+'self' data: https:; Permissions-Policy: geolocation=(), camera=() /sitemap.xml
+Content-Type: application/xml; charset=utf-8 Cache-Control: public, max-age=0,
+must-revalidate /robots.txt Content-Type: text/plain; charset=utf-8
+Cache-Control: public, max-age=0, must-revalidate
