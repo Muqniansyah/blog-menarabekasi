@@ -86,7 +86,7 @@
                     <div class="p-5 bg-white rounded shadow-sm text-center">
                         <!-- Penjelasan Tambahan -->
                         <div class="text-start">
-                            <h3 class="fw-bold text-primary mb-3">🌍 Apa itu ISPM 15?</h3>
+                            <h3 class="fw-bold text-primary mb-3">🌍 Penanganan palet kayu tidak cukup tanpa standar internasional, karena itulah ISPM 15 menjadi kunci dalam ekspor yang aman dan lancar.</h3>
                             <p class="text-secondary fs-5">
                                 ISPM 15 (International Standards for Phytosanitary Measures No. 15) adalah standar internasional 
                                 yang mengatur perlakuan terhadap material kemasan kayu, seperti pallet, agar bebas dari hama dan penyakit. 
