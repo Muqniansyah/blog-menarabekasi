@@ -1,0 +1,6 @@
+update v2.0
+1. penambahan faq
+2. penambahan json key faq
+3. penambahan sharing button bar
+4. penambahan swiperjs
+5. penambahan icon
