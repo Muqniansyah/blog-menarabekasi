@@ -4,3 +4,7 @@ update v2.0
 3. penambahan sharing button bar
 4. penambahan swiperjs
 5. penambahan icon
+
+
+jalankan di laravel:
+php artisan serve
