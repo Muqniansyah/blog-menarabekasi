@@ -5,6 +5,8 @@ update v2.0
 4. penambahan swiperjs
 5. penambahan icon
 
+export jadi html : 
+php artisan export --output=dist
 
 jalankan di laravel:
 php artisan serve

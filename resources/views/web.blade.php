@@ -428,7 +428,7 @@
                     <!-- Slide 1 -->
                     <div class="swiper-slide">
                         <a
-                            href="https://kemaskayuindonesia.my.id/menarabekasi/"
+                            href="https://menarabekasilestari.site/"
                             class="artikel-card text-decoration-none d-block h-100"
                             target="_blank"
                             rel="noopener noreferrer">
@@ -436,16 +436,16 @@
                                 class="card border-0 shadow-sm overflow-hidden h-100">
                                 <img
                                     class="artikel-img"
-                                    src="{{ asset('images/faq.JPG') }}"
-                                    alt="faq" />
+                                    src="{{ asset('images/slider/kemas.png') }}"
+                                    alt="swiper-1" />
                                 <div class="card-body text-start">
                                     <h5 class="fw-bold text-dark mb-2">
-                                        Pastikan Pallet Anda Siap Kirim
-                                        Tanpa Risiko!
+                                        Website Resmi PT.Kemas Kayu
+                                        Indonesia
                                     </h5>
                                     <p class="text-secondary small">
-                                        Fasilitas Produksi Terintegrasi
-                                        Bersertifikasi ISPM 15
+                                        Kami selalu memastikan kualitas kayu
+                                        sesuai standar nasional.
                                     </p>
                                 </div>
                             </div>
@@ -455,7 +455,7 @@
                     <!-- Slide 2 -->
                     <div class="swiper-slide">
                         <a
-                            href="https://blogmenara.pages.dev/"
+                            href="https://kemaskayuindonesia.my.id/menarabekasi/"
                             class="artikel-card text-decoration-none d-block h-100"
                             target="_blank"
                             rel="noopener noreferrer">
@@ -463,16 +463,16 @@
                                 class="card border-0 shadow-sm overflow-hidden h-100">
                                 <img
                                     class="artikel-img"
-                                    src="{{ asset('images/faq2.JPG') }}"
-                                    alt="faq2" />
+                                    src="{{ asset('images/slider/menarabekasi.png') }}"
+                                    alt="swiper-2" />
                                 <div class="card-body text-start">
                                     <h5 class="fw-bold text-dark mb-2">
-                                        📦 Perbedaan Kayu ISPM 15 dan Non
-                                        ISPM 15 Panduan untuk Ekspor
+                                        Pastikan Pallet Anda Siap Kirim
+                                        Tanpa Risiko!
                                     </h5>
                                     <p class="text-secondary small">
-                                        Panduan lengkap membedakan Kayu ISPM
-                                        15 dan Non ISPM 15.
+                                        Kerjasama hanya dengan vendor
+                                        terpercaya & berpengalaman.
                                     </p>
                                 </div>
                             </div>
@@ -480,6 +480,62 @@
                     </div>
 
                     <!-- Slide 3 -->
+                    <div class="swiper-slide">
+                        <a
+                            href="https://muqniansyah.github.io/menara-blog/"
+                            class="artikel-card text-decoration-none d-block h-100"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div
+                                class="card border-0 shadow-sm overflow-hidden h-100">
+                                <img
+                                    class="artikel-img"
+                                    src="{{ asset('images/slider/web-2.JPG') }}"
+                                    alt="swiper-3" />
+                                <div class="card-body text-start">
+                                    <h5 class="fw-bold text-dark mb-2">
+                                        Pemilihan Jenis Kayu Tepat untuk
+                                        Kelancaran Ekspor Internasional
+                                    </h5>
+                                    <p class="text-secondary small">
+                                        Pelajari cara memilih jenis kayu
+                                        terbaik agar ekspor Anda lancar dan
+                                        sesuai standar ISPM 15.
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <!-- Slide 4 -->
+                    <div class="swiper-slide">
+                        <a
+                            href="https://menara-bekasiweb.vercel.app/"
+                            class="artikel-card text-decoration-none d-block h-100"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <div
+                                class="card border-0 shadow-sm overflow-hidden h-100">
+                                <img
+                                    class="artikel-img"
+                                    src="{{ asset('images/slider/web-12.JPG') }}"
+                                    alt="swiper-4" />
+                                <div class="card-body text-start">
+                                    <h5 class="fw-bold text-dark mb-2">
+                                        Inovasi Teknologi dalam Industri
+                                        Kayu Ekspor Modern
+                                    </h5>
+                                    <p class="text-secondary small">
+                                        Temukan teknologi terbaru dalam
+                                        pengolahan kayu dan sistem smart
+                                        treatment ISPM 15.
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <!-- Slide 5 -->
                     <div class="swiper-slide">
                         <a
                             href="https://menarabekasi-bbeb1.web.app/"
@@ -490,27 +546,27 @@
                                 class="card border-0 shadow-sm overflow-hidden h-100">
                                 <img
                                     class="artikel-img"
-                                    src="{{ asset('images/faq3.JPG') }}"
-                                    alt="faq3" />
+                                    src="{{ asset('images/slider/web-5.JPG') }}"
+                                    alt="swiper-4" />
                                 <div class="card-body text-start">
                                     <h5 class="fw-bold text-dark mb-2">
-                                        ✅ Panduan Lengkap ISPM 15
+                                        Panduan Lengkap ISPM 15: Standar
+                                        Kayu untuk Ekspor Internasional
                                     </h5>
                                     <p class="text-secondary small">
-                                        Pelajari pengertian, perlakuan kayu,
-                                        hingga manfaat sertifikasi ISPM 15
-                                        untuk ekspor kayu ke pasar
-                                        internasional.
+                                        Ketahui semua hal tentang
+                                        sertifikasi ISPM 15 dan bagaimana
+                                        cara mendapatkannya.
                                     </p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <!-- Slide 4 -->
+                    <!-- Slide 6 -->
                     <div class="swiper-slide">
                         <a
-                            href="https://menarabekasilestari.site/"
+                            href="https://blogwebmenara.vercel.app/"
                             class="artikel-card text-decoration-none d-block h-100"
                             target="_blank"
                             rel="noopener noreferrer">
@@ -518,17 +574,17 @@
                                 class="card border-0 shadow-sm overflow-hidden h-100">
                                 <img
                                     class="artikel-img"
-                                    src="{{ asset('images/faq4.JPG') }}"
-                                    alt="faq4" />
+                                    src="{{ asset('images/slider/web-9.JPG') }}"
+                                    alt="swiper-6" />
                                 <div class="card-body text-start">
                                     <h5 class="fw-bold text-dark mb-2">
-                                        🌍 Website Resmi PT. Kemas Kayu
-                                        Indonesia
+                                        Pembuatan Pallet Kayu Ekspor: Proses
+                                        dan Standar ISPM 15
                                     </h5>
                                     <p class="text-secondary small">
-                                        Menyediakan pallet dan produk
-                                        lainnya yang berbahan dasar kayu dan
-                                        playwood dengan kualitas terbaik
+                                        Lihat bagaimana proses pengolahan
+                                        kayu menjadi pallet ekspor yang
+                                        memenuhi regulasi.
                                     </p>
                                 </div>
                             </div>
